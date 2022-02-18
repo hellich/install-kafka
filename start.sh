@@ -1,4 +1,6 @@
-if [ $# -eq 0 ]
+#!/usr/bin/sh
+
+if [ $# -ne 2 ]
 then
 echo "No arguments supplied"
 else
