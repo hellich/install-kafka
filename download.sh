@@ -1,4 +1,3 @@
-hostname=$1
 sudo su
 mkdir -p /SERVICE/kafka
 cd /SERVICE/kafka
