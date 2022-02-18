@@ -1,3 +1,4 @@
+#!/usr/bin/sh
 sudo su
 mkdir -p /SERVICE/kafka
 cd /SERVICE/kafka
